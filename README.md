@@ -4,6 +4,8 @@ A modern, high-fidelity trading dashboard and landing page application inspired 
 
 ## 🚀 Project Overview
 
+Demo Video :https://drive.google.com/drive/u/0/folders/1pemYdQeNRqsL4vtdgiUZmreckj2o5QRt
+
 This is a multi-service application split into three main components:
 - **Frontend (Landing Page):** User-facing landing pages, marketing sections, and authentication (Signup/Login) flow.
 - **Dashboard (Trading App):** A protected, feature-rich interface for managing trades, viewing portfolios, and tracking market movements.
@@ -60,6 +62,3 @@ Zerodha/
 - **Orders Management:** Full CRUD functionality to place and cancel stock orders.
 - **Responsive Design:** Premium "Inter" font integration and balance layout for high-density information display.
 - **Data Visualization:** Portfolio allocation insights using Doughnut charts (Chart.js).
-
-## 🛡️ License
-This project is open-source and available under the [MIT License](LICENSE).
