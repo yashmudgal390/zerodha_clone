@@ -5,6 +5,7 @@ A modern, high-fidelity trading dashboard and landing page application inspired 
 ## 🚀 Project Overview
 
 Demo Video :https://drive.google.com/file/d/1uPmiWM7m-otdNKEOXJq8tfa8a6dEoVk4/view?usp=sharing
+
 This is a multi-service application split into three main components:
 - **Frontend (Landing Page):** User-facing landing pages, marketing sections, and authentication (Signup/Login) flow.
 - **Dashboard (Trading App):** A protected, feature-rich interface for managing trades, viewing portfolios, and tracking market movements.
